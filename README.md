@@ -19,3 +19,5 @@ SETUP
     5. Start your OBS recording manually as usual, then click "Start
        Monitoring" in this app. It will stop the recording automatically
        once blue has held for the configured time, and beep when it does.
+
+<img width="442" alt="image" src="[https://github.com/user-attachments/assets/5bcc96c6-c011-4c89-b4da-6c15d4808804](https://github.com/RomSource/OBS-Autostop/blob/main/img/Screenshot%202026-07-20%20191427.png)">
