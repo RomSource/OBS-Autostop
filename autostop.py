@@ -34,9 +34,7 @@ DEFAULTS = {
 SAMPLE_SIZE = (80, 64)
 
 
-# --------------------------------------------------------------------------
-# Pure logic (no UI, no OBS) -- kept separate so it's easy to test/reuse
-# --------------------------------------------------------------------------
+# Pure logic (no UI, no OBS) kept separate so it's easy to test/reuse
 
 def fraction_matching_blue(img: Image.Image, reference, tolerance) -> float:
     pixels = list(img.getdata())
